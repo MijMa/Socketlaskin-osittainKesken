@@ -1,0 +1,3 @@
+Ohjelma toimii siihen asti, kunnes serveri l‰hett‰‰ summaajille numeroita. 
+Ensimm‰inen summaaja k‰sittelee ensimm‰isen saamansa numeron, mutta t‰m‰n j‰lkeen tapahtuu virhe.
+Virhe lienee siis kuutoskohdassa. Seiskakohta oletettavasti toimii silti.
